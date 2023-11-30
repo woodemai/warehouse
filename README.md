@@ -1,4 +1,4 @@
-[![Build client](https://github.com/woodemai/warehouse_client/actions/workflows/github-actions.yml/badge.svg)](https://github.com/woodemai/warehouse_client/actions/workflows/github-actions.yml)
+[![Node.js CI](https://github.com/woodemai/warehouse_client/actions/workflows/github-actions.yml/badge.svg)](https://github.com/woodemai/warehouse_client/actions/workflows/github-actions.yml)
 # Warehouse 👁️
 
 ### Two Submodules:
